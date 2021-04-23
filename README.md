@@ -45,11 +45,11 @@
 
 **git branch** *: инфо о ветках*
 
-**git branch <name>** *: создание ветки name*
+**git branch name** *: создание ветки name*
 
-**git checkout <name>** *: переход на ветку name*
+**git checkout name** *: переход на ветку name*
 
-**git checkout –b <name>** *: создание ветки name и переход на неё*
+**git checkout –b name** *: создание ветки name и переход на неё*
 
 **git merge main** *: замерджить изменения из main в ветку на которой ты находишься и создаст новы commit*
 
